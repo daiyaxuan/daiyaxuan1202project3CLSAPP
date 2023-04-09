@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "daiyaxuan1202project3CLSAPP", "daiyaxuan1202project3CLSAPP\daiyaxuan1202project3CLSAPP.csproj", "{A19CA24A-6067-4539-AF12-7E9D65C1ED58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19CA24A-6067-4539-AF12-7E9D65C1ED58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19CA24A-6067-4539-AF12-7E9D65C1ED58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19CA24A-6067-4539-AF12-7E9D65C1ED58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19CA24A-6067-4539-AF12-7E9D65C1ED58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9E701B-E897-4814-8FB3-61A45AF28405}
+	EndGlobalSection
+EndGlobal
